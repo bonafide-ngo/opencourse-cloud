@@ -28,7 +28,7 @@ The system streamlines the publishing of academic courses, enhances user experie
 - [Personas](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Personas)
 - [Functional Specifications](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Functional-Specifications)
 - [Non Functional Specifications](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Non-Functional-Specifications)
-- [Accessibility WCAG 2.1](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Accessibility-WCAG-2.1)
+<!-- - [Accessibility WCAG 2.1](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Accessibility-WCAG-2.1) -->
 - [Data Architecture](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Data-Architecture)
 <!-- - [Data Model](https://github.com/bonafide-ngo/opencourse-cloud/wiki/Data-Model) -->
 - [TODO](https://github.com/bonafide-ngo/opencourse-cloud/wiki/TODO)
