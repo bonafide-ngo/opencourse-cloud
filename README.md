@@ -1,8 +1,8 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ![Badge](https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-green)
 
-# Open Coourse Cloud
-**Open Coourse Cloud** is an open-source application designed for schools, colleges, and universities, facilitating seamless integration with academic databases to generate a dynamic, accessible, and user-friendly portal for accessing courses/programmes, subjects, pathways and modules. The application provides real-time data access via a cross-browser responsive web interface and across Android and iOS mobile devices.
+# Open Course Cloud
+**Open Course Cloud** is an open-source application designed for schools, colleges, and universities, facilitating seamless integration with academic databases to generate a dynamic, accessible, and user-friendly portal for accessing courses/programmes, subjects, pathways and modules. The application provides real-time data access via a cross-browser responsive web interface and across Android and iOS mobile devices.
 
 The system streamlines the publishing of academic courses, enhances user experience, and supports efficient management and distribution for educational institutions.
 
